@@ -1,7 +1,7 @@
 package monopolyGame;
 
 //Square object
-public class Square {
+public abstract class Square {
 	
 	String name;
 
@@ -15,5 +15,11 @@ public class Square {
 	{
 		return name;
 	}
+	
+	//To determine what will happen when the square in question come, 
+	//different actions for different squares are available 
+	public abstract void squareAction(Player player, Board board);
+	
+	
 	
 }
