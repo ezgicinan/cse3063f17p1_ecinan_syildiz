@@ -1,0 +1,1636 @@
+Welcome to MONOPOLY!
+
+Choose the number of players (2-8): Enter initial cash value: Enter the names of players: 
+---INSTRUCTION---
+# On a player's turn, he or she must roll the dice and move his or her token forward the number of spaces as rolled on the dice.
+
+# Game is played with 2 to 8 players.
+
+# Game is played as a series of rounds on a board comprised by 40 squares.
+
+# During a round, each player takes one turn.
+
+# In each turn, a player advances his/her piece clockwise around the board a number of squares equal to the sum of the numbers rolled on two six-sided dice.
+
+# After the dice are rolled, the name of the player and the roll are displayed, as well as the target square's name, player's total cash, player's destination and simultaneous action.
+
+# Until 1 player left, game will continue.
+
+Let's play the game!
+
+Enter the iteration number: 
+			** ITERATION: 1 **	
+Seda now in GO square and has 250.
+Seda rolled 5 and 2, then will proceed  7 squares.
+Seda is in Square 7
+Now, Seda is in Square 7 with $ 250.
+
+			** ITERATION: 1 **	
+Ezgi now in GO square and has 250.
+Ezgi rolled 1 and 2, then will proceed  3 squares.
+Ezgi is in Square 3.
+Ezgi, do you want to buy Square 3?
+Ezgi don't want to buy Square 3.
+Now, Ezgi is in Square 3 with $ 250.
+
+			** ITERATION: 1 **	
+Dilan now in GO square and has 250.
+Dilan rolled 6 and 5, then will proceed  11 squares.
+Dilan is in Square 11.
+Dilan, do you want to buy Square 11?
+Dilan don't want to buy Square 11.
+Now, Dilan is in Square 11 with $ 250.
+
+			** ITERATION: 1 **	
+Selen now in GO square and has 250.
+Selen rolled 4 and 5, then will proceed  9 squares.
+Selen is in Square 9.
+Selen, do you want to buy Square 9?
+Selen CANNOT buy Square 9.
+Now, Selen is in Square 9 with $ 250.
+
+			** ITERATION: 1 **	
+Yaren now in GO square and has 250.
+Yaren rolled 5 and 3, then will proceed  8 squares.
+Yaren is in Square 8.
+Yaren, do you want to buy Square 8?
+Yaren don't want to buy Square 8.
+Now, Yaren is in Square 8 with $ 250.
+
+			** ITERATION: 1 **	
+Gözde now in GO square and has 250.
+Gözde rolled 1 and 6, then will proceed  7 squares.
+Gözde is in Square 7
+Now, Gözde is in Square 7 with $ 250.
+
+			** ITERATION: 2 **	
+Seda now in Square 7 square and has 250.
+Seda rolled 5 and 1, then will proceed  6 squares.
+Seda is in Square 13.
+Seda, do you want to buy Square 13?
+Seda buy Square 13 by giving $ 140.
+Now, Seda is in Square 13 with $ 110.
+
+			** ITERATION: 2 **	
+Ezgi now in Square 3 square and has 250.
+Ezgi rolled 4 and 4, then roll the dice again
+Ezgi rolled 1 and 3, then will proceed  4 squares.
+Ezgi is in Square 7
+Now, Ezgi is in Square 7 with $ 250.
+
+			** ITERATION: 2 **	
+Dilan now in Square 11 square and has 250.
+Dilan rolled 1 and 3, then will proceed  4 squares.
+Dilan is in RAIL ROADS2.
+Dilan, do you want to buy RAIL ROADS2?
+Dilan don't want to buy RAIL ROADS2
+Now, Dilan is in RAIL ROADS2 with $ 250.
+
+			** ITERATION: 2 **	
+Selen now in Square 9 square and has 250.
+Selen rolled 5 and 6, then will proceed  11 squares.
+Selen is in FREE PARKING
+Now, Selen is in FREE PARKING with $ 250.
+
+			** ITERATION: 2 **	
+Yaren now in Square 8 square and has 250.
+Yaren rolled 4 and 2, then will proceed  6 squares.
+Yaren is in Square 14.
+Yaren, do you want to buy Square 14?
+Yaren don't want to buy Square 14.
+Now, Yaren is in Square 14 with $ 250.
+
+			** ITERATION: 2 **	
+Gözde now in Square 7 square and has 250.
+Gözde rolled 6 and 5, then will proceed  11 squares.
+Gözde is in Square 18.
+Gözde, do you want to buy Square 18?
+Gözde don't want to buy Square 18.
+Now, Gözde is in Square 18 with $ 250.
+
+			** ITERATION: 3 **	
+Seda now in Square 13 square and has 110.
+Seda rolled 1 and 3, then will proceed  4 squares.
+Seda is in Square 17
+Now, Seda is in Square 17 with $ 110.
+
+			** ITERATION: 3 **	
+Ezgi now in Square 7 square and has 250.
+Ezgi rolled 1 and 4, then will proceed  5 squares.
+Ezgi is in ELECTRIC UTILITY.
+Ezgi, do you want to buy ELECTRIC UTILITY?
+Ezgi don't want to buy ELECTRIC UTILITY
+Now, Ezgi is in ELECTRIC UTILITY with $ 250.
+
+			** ITERATION: 3 **	
+Dilan now in RAIL ROADS2 square and has 250.
+Dilan rolled 1 and 1, then roll the dice again
+Dilan rolled 4 and 1, then will proceed  5 squares.
+Dilan is in FREE PARKING
+Now, Dilan is in FREE PARKING with $ 250.
+
+			** ITERATION: 3 **	
+Selen now in FREE PARKING square and has 250.
+Selen rolled 6 and 2, then will proceed  8 squares.
+Selen is in WATER UTILITY.
+Selen, do you want to buy WATER UTILITY?
+Selen buy WATER UTILITY by giving $ 150
+Now, Selen is in WATER UTILITY with $ 100.
+
+			** ITERATION: 3 **	
+Yaren now in Square 14 square and has 250.
+Yaren rolled 3 and 6, then will proceed  9 squares.
+Yaren is in Square 23.
+Yaren, do you want to buy Square 23?
+Yaren CANNOT buy Square 23.
+Now, Yaren is in Square 23 with $ 250.
+
+			** ITERATION: 3 **	
+Gözde now in Square 18 square and has 250.
+Gözde rolled 6 and 2, then will proceed  8 squares.
+Gözde is in Square 26.
+Gözde, do you want to buy Square 26?
+Gözde don't want to buy Square 26.
+Now, Gözde is in Square 26 with $ 250.
+
+			** ITERATION: 4 **	
+Seda now in Square 17 square and has 110.
+Seda rolled 3 and 5, then will proceed  8 squares.
+Seda is in RAIL ROADS3.
+Seda, do you want to buy RAIL ROADS3?
+Seda don't want to buy RAIL ROADS3
+Now, Seda is in RAIL ROADS3 with $ 110.
+
+			** ITERATION: 4 **	
+Ezgi now in ELECTRIC UTILITY square and has 250.
+Ezgi rolled 2 and 4, then will proceed  6 squares.
+Ezgi is in Square 18.
+Ezgi, do you want to buy Square 18?
+Ezgi don't want to buy Square 18.
+Now, Ezgi is in Square 18 with $ 250.
+
+			** ITERATION: 4 **	
+Dilan now in FREE PARKING square and has 250.
+Dilan rolled 6 and 6, then roll the dice again
+Dilan rolled 4 and 4, then roll the dice again
+Dilan rolled 3 and 6, then will proceed  9 squares.
+Dilan is in Square 29.
+Dilan, do you want to buy Square 29?
+Dilan don't want to buy Square 29.
+Now, Dilan is in Square 29 with $ 250.
+
+			** ITERATION: 4 **	
+Selen now in WATER UTILITY square and has 100.
+Selen rolled 2 and 3, then will proceed  5 squares.
+Selen is in Square 33
+Now, Selen is in Square 33 with $ 100.
+
+			** ITERATION: 4 **	
+Yaren now in Square 23 square and has 250.
+Yaren rolled 5 and 4, then will proceed  9 squares.
+Yaren is in Square 32.
+Yaren, do you want to buy Square 32?
+Yaren hasn't got enough money to buy Square 32.
+Now, Yaren is in Square 32 with $ 250.
+
+			** ITERATION: 4 **	
+Gözde now in Square 26 square and has 250.
+Gözde rolled 3 and 3, then roll the dice again
+Gözde rolled 5 and 5, then roll the dice again
+Gözde rolled 2 and 2, then roll the dice again
+You're come from Square 30 or you rolled 3 times Doubles.
+ Gözde is in JAIL
+To get out from the Jail, Gözde paid 50$
+3 times DOUBLES!!!!
+Gözde goes to JAIL
+Gözde rolled 4 and 3, then will proceed  7 squares.
+Gözde is in Square 17
+Now, Gözde is in Square 17 with $ 200.
+
+			** ITERATION: 5 **	
+Seda now in RAIL ROADS3 square and has 110.
+Seda rolled 4 and 5, then will proceed  9 squares.
+Seda is in Square 34.
+Seda, do you want to buy Square 34?
+Seda don't want to buy Square 34.
+Now, Seda is in Square 34 with $ 110.
+
+			** ITERATION: 5 **	
+Ezgi now in Square 18 square and has 250.
+Ezgi rolled 2 and 6, then will proceed  8 squares.
+Ezgi is in Square 26.
+Ezgi, do you want to buy Square 26?
+Ezgi hasn't got enough money to buy Square 26.
+Now, Ezgi is in Square 26 with $ 250.
+
+			** ITERATION: 5 **	
+Dilan now in Square 29 square and has 250.
+Dilan rolled 6 and 1, then will proceed  7 squares.
+Dilan is in Square 36
+Now, Dilan is in Square 36 with $ 250.
+
+			** ITERATION: 5 **	
+Selen now in Square 33 square and has 100.
+Selen rolled 6 and 1, then will proceed  7 squares.
+Selen is in GO
+GO Square! So, Selen earned 200$!
+Now, Selen is in GO with $ 300.
+
+			** ITERATION: 5 **	
+Yaren now in Square 32 square and has 250.
+Yaren rolled 2 and 6, then will proceed  8 squares.
+Yaren is in GO
+GO Square! So, Yaren earned 200$!
+Now, Yaren is in GO with $ 450.
+
+			** ITERATION: 5 **	
+Gözde now in Square 17 square and has 200.
+Gözde rolled 4 and 4, then roll the dice again
+Gözde rolled 1 and 5, then will proceed  6 squares.
+Gözde is in Square 23.
+Gözde, do you want to buy Square 23?
+Gözde CANNOT buy Square 23.
+Now, Gözde is in Square 23 with $ 200.
+
+			** ITERATION: 6 **	
+Seda now in Square 34 square and has 110.
+Seda rolled 5 and 1, then will proceed  6 squares.
+Seda is in GO
+GO Square! So, Seda earned 200$!
+Now, Seda is in GO with $ 310.
+
+			** ITERATION: 6 **	
+Ezgi now in Square 26 square and has 250.
+Ezgi rolled 6 and 4, then will proceed  10 squares.
+Ezgi is in Square 36
+Now, Ezgi is in Square 36 with $ 250.
+
+			** ITERATION: 6 **	
+Dilan now in Square 36 square and has 250.
+Dilan rolled 3 and 1, then will proceed  4 squares.
+Dilan is in GO
+GO Square! So, Dilan earned 200$!
+Now, Dilan is in GO with $ 450.
+
+			** ITERATION: 6 **	
+Selen now in GO square and has 300.
+Selen rolled 2 and 5, then will proceed  7 squares.
+Selen is in Square 7
+Now, Selen is in Square 7 with $ 300.
+
+			** ITERATION: 6 **	
+Yaren now in GO square and has 450.
+Yaren rolled 4 and 1, then will proceed  5 squares.
+Yaren is in RAIL ROADS1.
+Yaren, do you want to buy RAIL ROADS1?
+Yaren don't want to buy RAIL ROADS1
+Now, Yaren is in RAIL ROADS1 with $ 450.
+
+			** ITERATION: 6 **	
+Gözde now in Square 23 square and has 200.
+Gözde rolled 4 and 1, then will proceed  5 squares.
+Gözde is in WATER UTILITY.
+Gözde pay $ 50 as rent to Selen 
+Now, Gözde is in WATER UTILITY with $ 150.
+
+			** ITERATION: 7 **	
+Seda now in GO square and has 310.
+Seda rolled 3 and 6, then will proceed  9 squares.
+Seda is in Square 9.
+Seda, do you want to buy Square 9?
+Seda don't want to buy Square 9.
+Now, Seda is in Square 9 with $ 310.
+
+			** ITERATION: 7 **	
+Ezgi now in Square 36 square and has 250.
+Ezgi rolled 6 and 3, then will proceed  9 squares.
+Ezgi is in RAIL ROADS1.
+Ezgi, do you want to buy RAIL ROADS1?
+Ezgi CANNOT buy RAIL ROADS1.
+Now, Ezgi is in RAIL ROADS1 with $ 250.
+
+			** ITERATION: 7 **	
+Dilan now in GO square and has 450.
+Dilan rolled 2 and 6, then will proceed  8 squares.
+Dilan is in Square 8.
+Dilan, do you want to buy Square 8?
+Dilan don't want to buy Square 8.
+Now, Dilan is in Square 8 with $ 450.
+
+			** ITERATION: 7 **	
+Selen now in Square 7 square and has 350.
+Selen rolled 6 and 6, then roll the dice again
+Selen rolled 3 and 5, then will proceed  8 squares.
+Selen is in RAIL ROADS2.
+Selen, do you want to buy RAIL ROADS2?
+Selen don't want to buy RAIL ROADS2
+Now, Selen is in RAIL ROADS2 with $ 350.
+
+			** ITERATION: 7 **	
+Yaren now in RAIL ROADS1 square and has 450.
+Yaren rolled 6 and 5, then will proceed  11 squares.
+Yaren is in Square 16.
+Yaren, do you want to buy Square 16?
+Yaren don't want to buy Square 16.
+Now, Yaren is in Square 16 with $ 450.
+
+			** ITERATION: 7 **	
+Gözde now in WATER UTILITY square and has 150.
+Gözde rolled 5 and 3, then will proceed  8 squares.
+Gözde is in Square 36
+Now, Gözde is in Square 36 with $ 150.
+
+			** ITERATION: 8 **	
+Seda now in Square 9 square and has 310.
+Seda rolled 1 and 3, then will proceed  4 squares.
+Seda is in Square 13.
+Now, Seda is in Square 13 with $ 310.
+
+			** ITERATION: 8 **	
+Ezgi now in RAIL ROADS1 square and has 250.
+Ezgi rolled 3 and 6, then will proceed  9 squares.
+Ezgi is in Square 14.
+Ezgi, do you want to buy Square 14?
+Ezgi buy Square 14 by giving $ 160.
+Now, Ezgi is in Square 14 with $ 90.
+
+			** ITERATION: 8 **	
+Dilan now in Square 8 square and has 450.
+Dilan rolled 4 and 2, then will proceed  6 squares.
+Dilan is in Square 14.
+Dilan pay $ 12 as a rent to Ezgi.
+Now, Dilan is in Square 14 with $ 438.
+
+			** ITERATION: 8 **	
+Selen now in RAIL ROADS2 square and has 350.
+Selen rolled 1 and 3, then will proceed  4 squares.
+Selen is in Square 19.
+Selen, do you want to buy Square 19?
+Selen buy Square 19 by giving $ 200.
+Now, Selen is in Square 19 with $ 150.
+
+			** ITERATION: 8 **	
+Yaren now in Square 16 square and has 450.
+Yaren rolled 3 and 2, then will proceed  5 squares.
+Yaren is in Square 21.
+Yaren, do you want to buy Square 21?
+Yaren CANNOT buy Square 21.
+Now, Yaren is in Square 21 with $ 450.
+
+			** ITERATION: 8 **	
+Gözde now in Square 36 square and has 150.
+Gözde rolled 5 and 1, then will proceed  6 squares.
+Gözde is in Square 2
+Now, Gözde is in Square 2 with $ 150.
+
+			** ITERATION: 9 **	
+Seda now in Square 13 square and has 310.
+Seda rolled 6 and 2, then will proceed  8 squares.
+Seda is in Square 21.
+Seda, do you want to buy Square 21?
+Seda don't want to buy Square 21.
+Now, Seda is in Square 21 with $ 310.
+
+			** ITERATION: 9 **	
+Ezgi now in Square 14 square and has 102.
+Ezgi rolled 1 and 4, then will proceed  5 squares.
+Ezgi is in Square 19.
+Ezgi pay $ 16 as a rent to Selen.
+Now, Ezgi is in Square 19 with $ 86.
+
+			** ITERATION: 9 **	
+Dilan now in Square 14 square and has 438.
+Dilan rolled 2 and 4, then will proceed  6 squares.
+Dilan is in FREE PARKING
+Now, Dilan is in FREE PARKING with $ 438.
+
+			** ITERATION: 9 **	
+Selen now in Square 19 square and has 166.
+Selen rolled 3 and 5, then will proceed  8 squares.
+Selen is in Square 27.
+Selen, do you want to buy Square 27?
+Selen hasn't got enough money to buy Square 27.
+Now, Selen is in Square 27 with $ 166.
+
+			** ITERATION: 9 **	
+Yaren now in Square 21 square and has 450.
+Yaren rolled 3 and 3, then roll the dice again
+Yaren rolled 2 and 4, then will proceed  6 squares.
+Yaren is in Square 27.
+Yaren, do you want to buy Square 27?
+Yaren buy Square 27 by giving $ 260.
+Now, Yaren is in Square 27 with $ 190.
+
+			** ITERATION: 9 **	
+Gözde now in Square 2 square and has 150.
+Gözde rolled 5 and 1, then will proceed  6 squares.
+Gözde is in Square 8.
+Gözde, do you want to buy Square 8?
+Gözde buy Square 8 by giving $ 100.
+Now, Gözde is in Square 8 with $ 50.
+
+			** ITERATION: 10 **	
+Seda now in Square 21 square and has 310.
+Seda rolled 1 and 5, then will proceed  6 squares.
+Seda is in Square 27.
+Seda pay $ 22 as a rent to Yaren.
+Now, Seda is in Square 27 with $ 288.
+
+			** ITERATION: 10 **	
+Ezgi now in Square 19 square and has 86.
+Ezgi rolled 3 and 2, then will proceed  5 squares.
+Ezgi is in Square 24.
+Ezgi, do you want to buy Square 24?
+Ezgi hasn't got enough money to buy Square 24.
+Now, Ezgi is in Square 24 with $ 86.
+
+			** ITERATION: 10 **	
+Dilan now in FREE PARKING square and has 438.
+Dilan rolled 5 and 3, then will proceed  8 squares.
+Dilan is in WATER UTILITY.
+Dilan pay $ 80 as rent to Selen 
+Now, Dilan is in WATER UTILITY with $ 358.
+
+			** ITERATION: 10 **	
+Selen now in Square 27 square and has 246.
+Selen rolled 6 and 1, then will proceed  7 squares.
+Selen is in Square 34.
+Selen, do you want to buy Square 34?
+Selen CANNOT buy Square 34.
+Now, Selen is in Square 34 with $ 246.
+
+			** ITERATION: 10 **	
+Yaren now in Square 27 square and has 212.
+Yaren rolled 3 and 2, then will proceed  5 squares.
+Yaren is in Square 32.
+Yaren, do you want to buy Square 32?
+Yaren hasn't got enough money to buy Square 32.
+Now, Yaren is in Square 32 with $ 212.
+
+			** ITERATION: 10 **	
+Gözde now in Square 8 square and has 50.
+Gözde rolled 3 and 1, then will proceed  4 squares.
+Gözde is in ELECTRIC UTILITY.
+Gözde, do you want to buy ELECTRIC UTILITY?
+Gözde don't want to buy ELECTRIC UTILITY
+Now, Gözde is in ELECTRIC UTILITY with $ 50.
+
+			** ITERATION: 11 **	
+Seda now in Square 27 square and has 288.
+Seda rolled 6 and 2, then will proceed  8 squares.
+Seda is in RAIL ROADS4.
+Seda, do you want to buy RAIL ROADS4?
+Seda CANNOT buy RAIL ROADS4.
+Now, Seda is in RAIL ROADS4 with $ 288.
+
+			** ITERATION: 11 **	
+Ezgi now in Square 24 square and has 86.
+Ezgi rolled 1 and 6, then will proceed  7 squares.
+Ezgi is in Square 31.
+Ezgi, do you want to buy Square 31?
+Ezgi hasn't got enough money to buy Square 31.
+Now, Ezgi is in Square 31 with $ 86.
+
+			** ITERATION: 11 **	
+Dilan now in WATER UTILITY square and has 358.
+Dilan rolled 5 and 3, then will proceed  8 squares.
+Dilan is in Square 36
+Now, Dilan is in Square 36 with $ 358.
+
+			** ITERATION: 11 **	
+Selen now in Square 34 square and has 246.
+Selen rolled 5 and 6, then will proceed  11 squares.
+Selen is in RAIL ROADS1.
+Selen, do you want to buy RAIL ROADS1?
+Selen don't want to buy RAIL ROADS1
+Now, Selen is in RAIL ROADS1 with $ 246.
+
+			** ITERATION: 11 **	
+Yaren now in Square 32 square and has 212.
+Yaren rolled 4 and 4, then roll the dice again
+Yaren rolled 4 and 5, then will proceed  9 squares.
+Yaren is in Square 1.
+Yaren, do you want to buy Square 1?
+Yaren don't want to buy Square 1.
+Now, Yaren is in Square 1 with $ 212.
+
+			** ITERATION: 11 **	
+Gözde now in ELECTRIC UTILITY square and has 50.
+Gözde rolled 4 and 1, then will proceed  5 squares.
+Gözde is in Square 17
+Now, Gözde is in Square 17 with $ 50.
+
+			** ITERATION: 12 **	
+Seda now in RAIL ROADS4 square and has 288.
+Seda rolled 1 and 2, then will proceed  3 squares.
+Seda is in LUXURY TAX.
+Seda will lose 75$.
+Now, Seda is in LUXURY TAX with $ 213.
+
+			** ITERATION: 12 **	
+Ezgi now in Square 31 square and has 86.
+Ezgi rolled 2 and 1, then will proceed  3 squares.
+Ezgi is in Square 34.
+Ezgi, do you want to buy Square 34?
+Ezgi don't want to buy Square 34.
+Now, Ezgi is in Square 34 with $ 86.
+
+			** ITERATION: 12 **	
+Dilan now in Square 36 square and has 358.
+Dilan rolled 2 and 2, then roll the dice again
+Dilan rolled 4 and 4, then roll the dice again
+Dilan rolled 2 and 3, then will proceed  5 squares.
+Dilan is in Square 1.
+Dilan, do you want to buy Square 1?
+Dilan hasn't got enough DICE VALUE to buy Square 1.
+Now, Dilan is in Square 1 with $ 358.
+
+			** ITERATION: 12 **	
+Selen now in RAIL ROADS1 square and has 246.
+Selen rolled 2 and 1, then will proceed  3 squares.
+Selen is in Square 8.
+Selen pay $ 6 as a rent to Gözde.
+Now, Selen is in Square 8 with $ 240.
+
+			** ITERATION: 12 **	
+Yaren now in Square 1 square and has 212.
+Yaren rolled 1 and 3, then will proceed  4 squares.
+Yaren is in RAIL ROADS1.
+Yaren, do you want to buy RAIL ROADS1?
+Yaren don't want to buy RAIL ROADS1
+Now, Yaren is in RAIL ROADS1 with $ 212.
+
+			** ITERATION: 12 **	
+Gözde now in Square 17 square and has 56.
+Gözde rolled 2 and 3, then will proceed  5 squares.
+Gözde is in Square 22
+Now, Gözde is in Square 22 with $ 56.
+
+			** ITERATION: 13 **	
+Seda now in LUXURY TAX square and has 213.
+Seda rolled 6 and 5, then will proceed  11 squares.
+Seda is in Square 9.
+Seda, do you want to buy Square 9?
+Seda buy Square 9 by giving $ 120.
+Now, Seda is in Square 9 with $ 93.
+
+			** ITERATION: 13 **	
+Ezgi now in Square 34 square and has 86.
+Ezgi rolled 2 and 2, then roll the dice again
+Ezgi rolled 2 and 1, then will proceed  3 squares.
+Ezgi is in Square 37.
+Ezgi, do you want to buy Square 37?
+Ezgi hasn't got enough money to buy Square 37.
+Now, Ezgi is in Square 37 with $ 86.
+
+			** ITERATION: 13 **	
+Dilan now in Square 1 square and has 358.
+Dilan rolled 1 and 2, then will proceed  3 squares.
+Dilan is in INCOME TAX
+Dilan will lose 10 percent of all your cash
+Now, Dilan is in INCOME TAX with $ 323.
+
+			** ITERATION: 13 **	
+Selen now in Square 8 square and has 240.
+Selen rolled 2 and 5, then will proceed  7 squares.
+Selen is in RAIL ROADS2.
+Selen, do you want to buy RAIL ROADS2?
+Selen don't want to buy RAIL ROADS2
+Now, Selen is in RAIL ROADS2 with $ 240.
+
+			** ITERATION: 13 **	
+Yaren now in RAIL ROADS1 square and has 212.
+Yaren rolled 6 and 1, then will proceed  7 squares.
+Yaren is in ELECTRIC UTILITY.
+Yaren, do you want to buy ELECTRIC UTILITY?
+Yaren don't want to buy ELECTRIC UTILITY
+Now, Yaren is in ELECTRIC UTILITY with $ 212.
+
+			** ITERATION: 13 **	
+Gözde now in Square 22 square and has 56.
+Gözde rolled 6 and 6, then roll the dice again
+Gözde rolled 4 and 3, then will proceed  7 squares.
+Gözde is in Square 29.
+Gözde, do you want to buy Square 29?
+Gözde don't want to buy Square 29.
+Now, Gözde is in Square 29 with $ 56.
+
+			** ITERATION: 14 **	
+Seda now in Square 9 square and has 93.
+Seda rolled 5 and 4, then will proceed  9 squares.
+Seda is in Square 18.
+Seda, do you want to buy Square 18?
+Seda hasn't got enough money to buy Square 18.
+Now, Seda is in Square 18 with $ 93.
+
+			** ITERATION: 14 **	
+Ezgi now in Square 37 square and has 86.
+Ezgi rolled 1 and 1, then roll the dice again
+Ezgi rolled 1 and 2, then will proceed  3 squares.
+Ezgi is in GO
+GO Square! So, Ezgi earned 200$!
+Now, Ezgi is in GO with $ 286.
+
+			** ITERATION: 14 **	
+Dilan now in INCOME TAX square and has 323.
+Dilan rolled 3 and 1, then will proceed  4 squares.
+Dilan is in Square 8.
+Dilan pay $ 6 as a rent to Gözde.
+Now, Dilan is in Square 8 with $ 317.
+
+			** ITERATION: 14 **	
+Selen now in RAIL ROADS2 square and has 240.
+Selen rolled 5 and 5, then roll the dice again
+Selen rolled 5 and 6, then will proceed  11 squares.
+Selen is in Square 26.
+Selen, do you want to buy Square 26?
+Selen don't want to buy Square 26.
+Now, Selen is in Square 26 with $ 240.
+
+			** ITERATION: 14 **	
+Yaren now in ELECTRIC UTILITY square and has 212.
+Yaren rolled 4 and 1, then will proceed  5 squares.
+Yaren is in Square 17
+Now, Yaren is in Square 17 with $ 212.
+
+			** ITERATION: 14 **	
+Gözde now in Square 29 square and has 62.
+Gözde rolled 6 and 1, then will proceed  7 squares.
+Gözde is in Square 36
+Now, Gözde is in Square 36 with $ 62.
+
+			** ITERATION: 15 **	
+Seda now in Square 18 square and has 93.
+Seda rolled 3 and 5, then will proceed  8 squares.
+Seda is in Square 26.
+Seda, do you want to buy Square 26?
+Seda hasn't got enough money to buy Square 26.
+Now, Seda is in Square 26 with $ 93.
+
+			** ITERATION: 15 **	
+Ezgi now in GO square and has 286.
+Ezgi rolled 4 and 5, then will proceed  9 squares.
+Ezgi is in Square 9.
+Ezgi pay $ 8 as a rent to Seda.
+Now, Ezgi is in Square 9 with $ 278.
+
+			** ITERATION: 15 **	
+Dilan now in Square 8 square and has 317.
+Dilan rolled 3 and 4, then will proceed  7 squares.
+Dilan is in RAIL ROADS2.
+Dilan, do you want to buy RAIL ROADS2?
+Dilan don't want to buy RAIL ROADS2
+Now, Dilan is in RAIL ROADS2 with $ 317.
+
+			** ITERATION: 15 **	
+Selen now in Square 26 square and has 240.
+Selen rolled 4 and 5, then will proceed  9 squares.
+Selen is in RAIL ROADS4.
+Selen, do you want to buy RAIL ROADS4?
+Selen buy RAIL ROADS4 by giving $ 200
+Now, Selen is in RAIL ROADS4 with $ 40.
+
+			** ITERATION: 15 **	
+Yaren now in Square 17 square and has 212.
+Yaren rolled 5 and 3, then will proceed  8 squares.
+Yaren is in RAIL ROADS3.
+Yaren, do you want to buy RAIL ROADS3?
+Yaren CANNOT buy RAIL ROADS3.
+Now, Yaren is in RAIL ROADS3 with $ 212.
+
+			** ITERATION: 15 **	
+Gözde now in Square 36 square and has 62.
+Gözde rolled 5 and 3, then will proceed  8 squares.
+Gözde is in INCOME TAX
+Gözde will lose 10 percent of all your cash
+Now, Gözde is in INCOME TAX with $ 56.
+
+			** ITERATION: 16 **	
+Seda now in Square 26 square and has 101.
+Seda rolled 5 and 3, then will proceed  8 squares.
+Seda is in Square 34.
+Seda, do you want to buy Square 34?
+Seda don't want to buy Square 34.
+Now, Seda is in Square 34 with $ 101.
+
+			** ITERATION: 16 **	
+Ezgi now in Square 9 square and has 278.
+Ezgi rolled 1 and 2, then will proceed  3 squares.
+Ezgi is in ELECTRIC UTILITY.
+Ezgi, do you want to buy ELECTRIC UTILITY?
+Ezgi CANNOT buy ELECTRIC UTILITY.
+Now, Ezgi is in ELECTRIC UTILITY with $ 278.
+
+			** ITERATION: 16 **	
+Dilan now in RAIL ROADS2 square and has 317.
+Dilan rolled 6 and 1, then will proceed  7 squares.
+Dilan is in Square 22
+Now, Dilan is in Square 22 with $ 317.
+
+			** ITERATION: 16 **	
+Selen now in RAIL ROADS4 square and has 40.
+Selen rolled 5 and 2, then will proceed  7 squares.
+Selen is in Square 2
+Now, Selen is in Square 2 with $ 40.
+
+			** ITERATION: 16 **	
+Yaren now in RAIL ROADS3 square and has 212.
+Yaren rolled 4 and 5, then will proceed  9 squares.
+Yaren is in Square 34.
+Yaren, do you want to buy Square 34?
+Yaren hasn't got enough money to buy Square 34.
+Now, Yaren is in Square 34 with $ 212.
+
+			** ITERATION: 16 **	
+Gözde now in INCOME TAX square and has 56.
+Gözde rolled 2 and 1, then will proceed  3 squares.
+Gözde is in Square 7
+Now, Gözde is in Square 7 with $ 56.
+
+			** ITERATION: 17 **	
+Seda now in Square 34 square and has 101.
+Seda rolled 1 and 5, then will proceed  6 squares.
+Seda is in GO
+GO Square! So, Seda earned 200$!
+Now, Seda is in GO with $ 301.
+
+			** ITERATION: 17 **	
+Ezgi now in ELECTRIC UTILITY square and has 278.
+Ezgi rolled 4 and 5, then will proceed  9 squares.
+Ezgi is in Square 21.
+Ezgi, do you want to buy Square 21?
+Ezgi don't want to buy Square 21.
+Now, Ezgi is in Square 21 with $ 278.
+
+			** ITERATION: 17 **	
+Dilan now in Square 22 square and has 317.
+Dilan rolled 2 and 2, then roll the dice again
+Dilan rolled 5 and 1, then will proceed  6 squares.
+Dilan is in WATER UTILITY.
+Dilan pay $ 60 as rent to Selen 
+Now, Dilan is in WATER UTILITY with $ 257.
+
+			** ITERATION: 17 **	
+Selen now in Square 2 square and has 100.
+Selen rolled 5 and 1, then will proceed  6 squares.
+Selen is in Square 8.
+Selen pay $ 6 as a rent to Gözde.
+Now, Selen is in Square 8 with $ 94.
+
+			** ITERATION: 17 **	
+Yaren now in Square 34 square and has 212.
+Yaren rolled 4 and 5, then will proceed  9 squares.
+Yaren is in Square 3.
+Yaren, do you want to buy Square 3?
+Yaren CANNOT buy Square 3.
+Now, Yaren is in Square 3 with $ 212.
+
+			** ITERATION: 17 **	
+Gözde now in Square 7 square and has 62.
+Gözde rolled 1 and 2, then will proceed  3 squares.
+Gözde is in JAIL for Just Visiting
+Now, Gözde is in JAIL with $ 62.
+
+			** ITERATION: 18 **	
+Seda now in GO square and has 301.
+Seda rolled 1 and 5, then will proceed  6 squares.
+Seda is in Square 6.
+Seda, do you want to buy Square 6?
+Seda buy Square 6 by giving $ 100.
+Now, Seda is in Square 6 with $ 201.
+
+			** ITERATION: 18 **	
+Ezgi now in Square 21 square and has 278.
+Ezgi rolled 3 and 5, then will proceed  8 squares.
+Ezgi is in Square 29.
+Ezgi, do you want to buy Square 29?
+Ezgi hasn't got enough money to buy Square 29.
+Now, Ezgi is in Square 29 with $ 278.
+
+			** ITERATION: 18 **	
+Dilan now in WATER UTILITY square and has 257.
+Dilan rolled 5 and 5, then roll the dice again
+Dilan rolled 4 and 5, then will proceed  9 squares.
+Dilan is in Square 37.
+Dilan, do you want to buy Square 37?
+Dilan hasn't got enough money to buy Square 37.
+Now, Dilan is in Square 37 with $ 257.
+
+			** ITERATION: 18 **	
+Selen now in Square 8 square and has 94.
+Selen rolled 3 and 4, then will proceed  7 squares.
+Selen is in RAIL ROADS2.
+Selen, do you want to buy RAIL ROADS2?
+Selen hasn't got enough money to buy RAIL ROADS2.
+Now, Selen is in RAIL ROADS2 with $ 94.
+
+			** ITERATION: 18 **	
+Yaren now in Square 3 square and has 212.
+Yaren rolled 2 and 5, then will proceed  7 squares.
+Yaren is in JAIL for Just Visiting
+Now, Yaren is in JAIL with $ 212.
+
+			** ITERATION: 18 **	
+Gözde now in JAIL square and has 62.
+Gözde rolled 6 and 6, then roll the dice again
+Gözde rolled 2 and 4, then will proceed  6 squares.
+Gözde is in Square 16.
+Gözde, do you want to buy Square 16?
+Gözde don't want to buy Square 16.
+Now, Gözde is in Square 16 with $ 62.
+
+			** ITERATION: 19 **	
+Seda now in Square 6 square and has 201.
+Seda rolled 3 and 2, then will proceed  5 squares.
+Seda is in Square 11.
+Seda, do you want to buy Square 11?
+Seda don't want to buy Square 11.
+Now, Seda is in Square 11 with $ 201.
+
+			** ITERATION: 19 **	
+Ezgi now in Square 29 square and has 278.
+Ezgi rolled 3 and 3, then roll the dice again
+Ezgi rolled 1 and 2, then will proceed  3 squares.
+Ezgi is in Square 32.
+Ezgi, do you want to buy Square 32?
+Ezgi don't want to buy Square 32.
+Now, Ezgi is in Square 32 with $ 278.
+
+			** ITERATION: 19 **	
+Dilan now in Square 37 square and has 257.
+Dilan rolled 5 and 2, then will proceed  7 squares.
+Dilan is in INCOME TAX
+Dilan will lose 10 percent of all your cash
+Now, Dilan is in INCOME TAX with $ 232.
+
+			** ITERATION: 19 **	
+Selen now in RAIL ROADS2 square and has 94.
+Selen rolled 5 and 2, then will proceed  7 squares.
+Selen is in Square 22
+Now, Selen is in Square 22 with $ 94.
+
+			** ITERATION: 19 **	
+Yaren now in JAIL square and has 212.
+Yaren rolled 6 and 3, then will proceed  9 squares.
+Yaren is in Square 19.
+Yaren pay $ 16 as a rent to Selen.
+Now, Yaren is in Square 19 with $ 196.
+
+			** ITERATION: 19 **	
+Gözde now in Square 16 square and has 62.
+Gözde rolled 5 and 1, then will proceed  6 squares.
+Gözde is in Square 22
+Now, Gözde is in Square 22 with $ 62.
+
+			** ITERATION: 20 **	
+Seda now in Square 11 square and has 201.
+Seda rolled 5 and 3, then will proceed  8 squares.
+Seda is in Square 19.
+Seda pay $ 16 as a rent to Selen.
+Now, Seda is in Square 19 with $ 185.
+
+			** ITERATION: 20 **	
+Ezgi now in Square 32 square and has 278.
+Ezgi rolled 3 and 1, then will proceed  4 squares.
+Ezgi is in Square 36
+Now, Ezgi is in Square 36 with $ 278.
+
+			** ITERATION: 20 **	
+Dilan now in INCOME TAX square and has 232.
+Dilan rolled 4 and 6, then will proceed  10 squares.
+Dilan is in Square 14.
+Dilan pay $ 12 as a rent to Ezgi.
+Now, Dilan is in Square 14 with $ 220.
+
+			** ITERATION: 20 **	
+Selen now in Square 22 square and has 126.
+Selen rolled 1 and 5, then will proceed  6 squares.
+Selen is in WATER UTILITY.
+Now, Selen is in WATER UTILITY with $ 126.
+
+			** ITERATION: 20 **	
+Yaren now in Square 19 square and has 196.
+Yaren rolled 6 and 5, then will proceed  11 squares.
+Yaren is in GO TO JAIL
+You're come from Square 30 or you rolled 3 times Doubles.
+ Yaren is in JAIL
+To get out from the Jail, Yaren paid 50$
+Now, Yaren is in JAIL with $ 146.
+
+			** ITERATION: 20 **	
+Gözde now in Square 22 square and has 62.
+Gözde rolled 2 and 6, then will proceed  8 squares.
+Gözde is in GO TO JAIL
+You're come from Square 30 or you rolled 3 times Doubles.
+ Gözde is in JAIL
+To get out from the Jail, Gözde paid 50$
+Now, Gözde is in JAIL with $ 12.
+
+			** ITERATION: 21 **	
+Seda now in Square 19 square and has 185.
+Seda rolled 3 and 4, then will proceed  7 squares.
+Seda is in Square 26.
+Seda, do you want to buy Square 26?
+Seda don't want to buy Square 26.
+Now, Seda is in Square 26 with $ 185.
+
+			** ITERATION: 21 **	
+Ezgi now in Square 36 square and has 290.
+Ezgi rolled 5 and 5, then roll the dice again
+Ezgi rolled 5 and 1, then will proceed  6 squares.
+Ezgi is in Square 2
+Now, Ezgi is in Square 2 with $ 290.
+
+			** ITERATION: 21 **	
+Dilan now in Square 14 square and has 220.
+Dilan rolled 1 and 2, then will proceed  3 squares.
+Dilan is in Square 17
+Now, Dilan is in Square 17 with $ 220.
+
+			** ITERATION: 21 **	
+Selen now in WATER UTILITY square and has 126.
+Selen rolled 6 and 2, then will proceed  8 squares.
+Selen is in Square 36
+Now, Selen is in Square 36 with $ 126.
+
+			** ITERATION: 21 **	
+Yaren now in JAIL square and has 146.
+Yaren rolled 3 and 6, then will proceed  9 squares.
+Yaren is in Square 19.
+Yaren pay $ 16 as a rent to Selen.
+Now, Yaren is in Square 19 with $ 130.
+
+			** ITERATION: 21 **	
+Gözde now in JAIL square and has 12.
+Gözde rolled 4 and 2, then will proceed  6 squares.
+Gözde is in Square 16.
+Gözde, do you want to buy Square 16?
+Gözde don't want to buy Square 16.
+Now, Gözde is in Square 16 with $ 12.
+
+			** ITERATION: 22 **	
+Seda now in Square 26 square and has 185.
+Seda rolled 1 and 5, then will proceed  6 squares.
+Seda is in Square 32.
+Seda, do you want to buy Square 32?
+Seda don't want to buy Square 32.
+Now, Seda is in Square 32 with $ 185.
+
+			** ITERATION: 22 **	
+Ezgi now in Square 2 square and has 290.
+Ezgi rolled 3 and 6, then will proceed  9 squares.
+Ezgi is in Square 11.
+Ezgi, do you want to buy Square 11?
+Ezgi buy Square 11 by giving $ 140.
+Now, Ezgi is in Square 11 with $ 150.
+
+			** ITERATION: 22 **	
+Dilan now in Square 17 square and has 220.
+Dilan rolled 1 and 5, then will proceed  6 squares.
+Dilan is in Square 23.
+Dilan, do you want to buy Square 23?
+Dilan don't want to buy Square 23.
+Now, Dilan is in Square 23 with $ 220.
+
+			** ITERATION: 22 **	
+Selen now in Square 36 square and has 142.
+Selen rolled 4 and 4, then roll the dice again
+Selen rolled 3 and 2, then will proceed  5 squares.
+Selen is in Square 1.
+Selen, do you want to buy Square 1?
+Selen don't want to buy Square 1.
+Now, Selen is in Square 1 with $ 142.
+
+			** ITERATION: 22 **	
+Yaren now in Square 19 square and has 130.
+Yaren rolled 3 and 5, then will proceed  8 squares.
+Yaren is in Square 27.
+Now, Yaren is in Square 27 with $ 130.
+
+			** ITERATION: 22 **	
+Gözde now in Square 16 square and has 12.
+Gözde rolled 4 and 3, then will proceed  7 squares.
+Gözde is in Square 23.
+Gözde, do you want to buy Square 23?
+Gözde don't want to buy Square 23.
+Now, Gözde is in Square 23 with $ 12.
+
+			** ITERATION: 23 **	
+Seda now in Square 32 square and has 185.
+Seda rolled 3 and 5, then will proceed  8 squares.
+Seda is in GO
+GO Square! So, Seda earned 200$!
+Now, Seda is in GO with $ 385.
+
+			** ITERATION: 23 **	
+Ezgi now in Square 11 square and has 150.
+Ezgi rolled 3 and 4, then will proceed  7 squares.
+Ezgi is in Square 18.
+Ezgi, do you want to buy Square 18?
+Ezgi hasn't got enough money to buy Square 18.
+Now, Ezgi is in Square 18 with $ 150.
+
+			** ITERATION: 23 **	
+Dilan now in Square 23 square and has 220.
+Dilan rolled 2 and 6, then will proceed  8 squares.
+Dilan is in Square 31.
+Dilan, do you want to buy Square 31?
+Dilan don't want to buy Square 31.
+Now, Dilan is in Square 31 with $ 220.
+
+			** ITERATION: 23 **	
+Selen now in Square 1 square and has 142.
+Selen rolled 4 and 6, then will proceed  10 squares.
+Selen is in Square 11.
+Selen pay $ 10 as a rent to Ezgi.
+Now, Selen is in Square 11 with $ 132.
+
+			** ITERATION: 23 **	
+Yaren now in Square 27 square and has 130.
+Yaren rolled 3 and 4, then will proceed  7 squares.
+Yaren is in Square 34.
+Yaren, do you want to buy Square 34?
+Yaren hasn't got enough money to buy Square 34.
+Now, Yaren is in Square 34 with $ 130.
+
+			** ITERATION: 23 **	
+Gözde now in Square 23 square and has 12.
+Gözde rolled 1 and 3, then will proceed  4 squares.
+Gözde is in Square 27.
+Gözde pay $ 22 as a rent to Yaren.
+Now, Gözde is in Square 27 with $ -10.
+
+			** ITERATION: 24 **	
+Seda now in GO square and has 385.
+Seda rolled 1 and 1, then roll the dice again
+Seda rolled 2 and 5, then will proceed  7 squares.
+Seda is in Square 7
+Now, Seda is in Square 7 with $ 385.
+
+			** ITERATION: 24 **	
+Ezgi now in Square 18 square and has 160.
+Ezgi rolled 5 and 1, then will proceed  6 squares.
+Ezgi is in Square 24.
+Ezgi, do you want to buy Square 24?
+Ezgi don't want to buy Square 24.
+Now, Ezgi is in Square 24 with $ 160.
+
+			** ITERATION: 24 **	
+Dilan now in Square 31 square and has 220.
+Dilan rolled 1 and 2, then will proceed  3 squares.
+Dilan is in Square 34.
+Dilan, do you want to buy Square 34?
+Dilan hasn't got enough money to buy Square 34.
+Now, Dilan is in Square 34 with $ 220.
+
+			** ITERATION: 24 **	
+Selen now in Square 11 square and has 132.
+Selen rolled 1 and 2, then will proceed  3 squares.
+Selen is in Square 14.
+Selen pay $ 12 as a rent to Ezgi.
+Now, Selen is in Square 14 with $ 120.
+
+			** ITERATION: 24 **	
+Yaren now in Square 34 square and has 152.
+Yaren rolled 6 and 5, then will proceed  11 squares.
+Yaren is in RAIL ROADS1.
+Yaren, do you want to buy RAIL ROADS1?
+Yaren hasn't got enough money to buy RAIL ROADS1.
+Now, Yaren is in RAIL ROADS1 with $ 152.
+
+			** ITERATION: 24 **	
+Gözde now in Square 27 square and has -10.
+Gözde rolled 6 and 4, then will proceed  10 squares.
+***  Gözde has been just broke out because has -10 $  ***
+Now, Gözde is in Square 27 with $ -10.
+5
+
+			** ITERATION: 25 **	
+Seda now in Square 7 square and has 385.
+Seda rolled 4 and 3, then will proceed  7 squares.
+Seda is in Square 14.
+Seda pay $ 12 as a rent to Ezgi.
+Now, Seda is in Square 14 with $ 373.
+5
+
+			** ITERATION: 25 **	
+Ezgi now in Square 24 square and has 184.
+Ezgi rolled 3 and 6, then will proceed  9 squares.
+Ezgi is in Square 33
+Now, Ezgi is in Square 33 with $ 184.
+5
+
+			** ITERATION: 25 **	
+Dilan now in Square 34 square and has 220.
+Dilan rolled 4 and 6, then will proceed  10 squares.
+Dilan is in INCOME TAX
+Dilan will lose 10 percent of all your cash
+Now, Dilan is in INCOME TAX with $ 198.
+5
+
+			** ITERATION: 25 **	
+Selen now in Square 14 square and has 120.
+Selen rolled 4 and 5, then will proceed  9 squares.
+Selen is in Square 23.
+Selen, do you want to buy Square 23?
+Selen hasn't got enough money to buy Square 23.
+Now, Selen is in Square 23 with $ 120.
+5
+
+			** ITERATION: 25 **	
+Yaren now in RAIL ROADS1 square and has 152.
+Yaren rolled 5 and 6, then will proceed  11 squares.
+Yaren is in Square 16.
+Yaren, do you want to buy Square 16?
+Yaren don't want to buy Square 16.
+Now, Yaren is in Square 16 with $ 152.
+5
+
+			** ITERATION: 25 **	
+Now, Gözde is in Square 27 with $ -10.
+5
+
+			** ITERATION: 26 **	
+Seda now in Square 14 square and has 373.
+Seda rolled 4 and 3, then will proceed  7 squares.
+Seda is in Square 21.
+Seda, do you want to buy Square 21?
+Seda don't want to buy Square 21.
+Now, Seda is in Square 21 with $ 373.
+5
+
+			** ITERATION: 26 **	
+Ezgi now in Square 33 square and has 184.
+Ezgi rolled 4 and 5, then will proceed  9 squares.
+Ezgi is in Square 2
+Now, Ezgi is in Square 2 with $ 184.
+5
+
+			** ITERATION: 26 **	
+Dilan now in INCOME TAX square and has 198.
+Dilan rolled 2 and 2, then roll the dice again
+Dilan rolled 4 and 3, then will proceed  7 squares.
+Dilan is in Square 11.
+Dilan pay $ 10 as a rent to Ezgi.
+Now, Dilan is in Square 11 with $ 188.
+5
+
+			** ITERATION: 26 **	
+Selen now in Square 23 square and has 120.
+Selen rolled 4 and 4, then roll the dice again
+Selen rolled 4 and 2, then will proceed  6 squares.
+Selen is in Square 29.
+Selen, do you want to buy Square 29?
+Selen don't want to buy Square 29.
+Now, Selen is in Square 29 with $ 120.
+5
+
+			** ITERATION: 26 **	
+Yaren now in Square 16 square and has 152.
+Yaren rolled 3 and 1, then will proceed  4 squares.
+Yaren is in FREE PARKING
+Now, Yaren is in FREE PARKING with $ 152.
+5
+
+			** ITERATION: 26 **	
+Now, Gözde is in Square 27 with $ -10.
+5
+
+			** ITERATION: 27 **	
+Seda now in Square 21 square and has 373.
+Seda rolled 5 and 5, then roll the dice again
+Seda rolled 3 and 3, then roll the dice again
+Seda rolled 6 and 6, then roll the dice again
+You're come from Square 30 or you rolled 3 times Doubles.
+ Seda is in JAIL
+To get out from the Jail, Seda paid 50$
+3 times DOUBLES!!!!
+Seda goes to JAIL
+Now, Seda is in JAIL with $ 323.
+5
+
+			** ITERATION: 27 **	
+Ezgi now in Square 2 square and has 194.
+Ezgi rolled 6 and 4, then will proceed  10 squares.
+Ezgi is in ELECTRIC UTILITY.
+Ezgi, do you want to buy ELECTRIC UTILITY?
+Ezgi buy ELECTRIC UTILITY by giving $ 150
+Now, Ezgi is in ELECTRIC UTILITY with $ 44.
+5
+
+			** ITERATION: 27 **	
+Dilan now in Square 11 square and has 188.
+Dilan rolled 5 and 3, then will proceed  8 squares.
+Dilan is in Square 19.
+Dilan pay $ 16 as a rent to Selen.
+Now, Dilan is in Square 19 with $ 172.
+5
+
+			** ITERATION: 27 **	
+Selen now in Square 29 square and has 136.
+Selen rolled 3 and 6, then will proceed  9 squares.
+Selen is in LUXURY TAX.
+Selen will lose 75$.
+Now, Selen is in LUXURY TAX with $ 61.
+5
+
+			** ITERATION: 27 **	
+Yaren now in FREE PARKING square and has 152.
+Yaren rolled 3 and 3, then roll the dice again
+Yaren rolled 6 and 4, then will proceed  10 squares.
+Yaren is in GO TO JAIL
+You're come from Square 30 or you rolled 3 times Doubles.
+ Yaren is in JAIL
+To get out from the Jail, Yaren paid 50$
+Now, Yaren is in JAIL with $ 102.
+5
+
+			** ITERATION: 27 **	
+Now, Gözde is in Square 27 with $ -10.
+5
+
+			** ITERATION: 28 **	
+Seda now in JAIL square and has 323.
+Seda rolled 1 and 3, then will proceed  4 squares.
+Seda is in Square 14.
+Seda pay $ 12 as a rent to Ezgi.
+Now, Seda is in Square 14 with $ 311.
+5
+
+			** ITERATION: 28 **	
+Ezgi now in ELECTRIC UTILITY square and has 56.
+Ezgi rolled 6 and 1, then will proceed  7 squares.
+Ezgi is in Square 19.
+Ezgi pay $ 16 as a rent to Selen.
+Now, Ezgi is in Square 19 with $ 40.
+5
+
+			** ITERATION: 28 **	
+Dilan now in Square 19 square and has 172.
+Dilan rolled 1 and 4, then will proceed  5 squares.
+Dilan is in Square 24.
+Dilan, do you want to buy Square 24?
+Dilan hasn't got enough money to buy Square 24.
+Now, Dilan is in Square 24 with $ 172.
+5
+
+			** ITERATION: 28 **	
+Selen now in LUXURY TAX square and has 77.
+Selen rolled 5 and 1, then will proceed  6 squares.
+Selen is in INCOME TAX
+Selen will lose 10 percent of all your cash
+Now, Selen is in INCOME TAX with $ 70.
+5
+
+			** ITERATION: 28 **	
+Yaren now in JAIL square and has 102.
+Yaren rolled 5 and 5, then roll the dice again
+Yaren rolled 5 and 3, then will proceed  8 squares.
+Yaren is in Square 18.
+Yaren, do you want to buy Square 18?
+Yaren don't want to buy Square 18.
+Now, Yaren is in Square 18 with $ 102.
+5
+
+			** ITERATION: 28 **	
+Now, Gözde is in Square 27 with $ -10.
+5
+
+			** ITERATION: 29 **	
+Seda now in Square 14 square and has 311.
+Seda rolled 3 and 6, then will proceed  9 squares.
+Seda is in Square 23.
+Seda, do you want to buy Square 23?
+Seda buy Square 23 by giving $ 220.
+Now, Seda is in Square 23 with $ 91.
+5
+
+			** ITERATION: 29 **	
+Ezgi now in Square 19 square and has 40.
+Ezgi rolled 6 and 3, then will proceed  9 squares.
+Ezgi is in WATER UTILITY.
+Ezgi pay $ 90 as rent to Selen 
+Now, Ezgi is in WATER UTILITY with $ -50.
+5
+
+			** ITERATION: 29 **	
+Dilan now in Square 24 square and has 172.
+Dilan rolled 4 and 4, then roll the dice again
+Dilan rolled 6 and 6, then roll the dice again
+Dilan rolled 5 and 5, then roll the dice again
+You're come from Square 30 or you rolled 3 times Doubles.
+ Dilan is in JAIL
+To get out from the Jail, Dilan paid 50$
+3 times DOUBLES!!!!
+Dilan goes to JAIL
+Dilan rolled 2 and 3, then will proceed  5 squares.
+Dilan is in RAIL ROADS2.
+Dilan, do you want to buy RAIL ROADS2?
+Dilan CANNOT buy RAIL ROADS2.
+Now, Dilan is in RAIL ROADS2 with $ 122.
+5
+
+			** ITERATION: 29 **	
+Selen now in INCOME TAX square and has 160.
+Selen rolled 5 and 1, then will proceed  6 squares.
+Selen is in JAIL for Just Visiting
+Now, Selen is in JAIL with $ 160.
+5
+
+			** ITERATION: 29 **	
+Yaren now in Square 18 square and has 102.
+Yaren rolled 5 and 6, then will proceed  11 squares.
+Yaren is in Square 29.
+Yaren, do you want to buy Square 29?
+Yaren hasn't got enough money to buy Square 29.
+Now, Yaren is in Square 29 with $ 102.
+5
+
+			** ITERATION: 29 **	
+Now, Gözde is in Square 27 with $ -10.
+5
+
+			** ITERATION: 30 **	
+Seda now in Square 23 square and has 91.
+Seda rolled 5 and 1, then will proceed  6 squares.
+Seda is in Square 29.
+Seda, do you want to buy Square 29?
+Seda hasn't got enough money to buy Square 29.
+Now, Seda is in Square 29 with $ 91.
+5
+
+			** ITERATION: 30 **	
+Ezgi now in WATER UTILITY square and has -50.
+Ezgi rolled 5 and 2, then will proceed  7 squares.
+***  Ezgi has been just broke out because has -50 $  ***
+Now, Ezgi is in WATER UTILITY with $ -50.
+5
+4
+
+			** ITERATION: 30 **	
+Dilan now in RAIL ROADS2 square and has 122.
+Dilan rolled 1 and 2, then will proceed  3 squares.
+Dilan is in Square 18.
+Dilan, do you want to buy Square 18?
+Dilan don't want to buy Square 18.
+Now, Dilan is in Square 18 with $ 122.
+5
+4
+
+			** ITERATION: 30 **	
+Selen now in JAIL square and has 160.
+Selen rolled 2 and 6, then will proceed  8 squares.
+Selen is in Square 18.
+Selen, do you want to buy Square 18?
+Selen don't want to buy Square 18.
+Now, Selen is in Square 18 with $ 160.
+5
+4
+
+			** ITERATION: 30 **	
+Yaren now in Square 29 square and has 102.
+Yaren rolled 2 and 2, then roll the dice again
+Yaren rolled 2 and 4, then will proceed  6 squares.
+Yaren is in RAIL ROADS4.
+Yaren pay $ 55 as rent to Selen 
+Now, Yaren is in RAIL ROADS4 with $ 47.
+5
+4
+
+			** ITERATION: 30 **	
+Now, Gözde is in Square 27 with $ -10.
+5
+4
+
+			** ITERATION: 31 **	
+Seda now in Square 29 square and has 91.
+Seda rolled 5 and 3, then will proceed  8 squares.
+Seda is in Square 37.
+Seda, do you want to buy Square 37?
+Seda don't want to buy Square 37.
+Now, Seda is in Square 37 with $ 91.
+5
+4
+
+			** ITERATION: 31 **	
+Now, Ezgi is in WATER UTILITY with $ -50.
+5
+4
+
+			** ITERATION: 31 **	
+Dilan now in Square 18 square and has 122.
+Dilan rolled 3 and 2, then will proceed  5 squares.
+Dilan is in Square 23.
+Dilan pay $ 18 as a rent to Seda.
+Now, Dilan is in Square 23 with $ 104.
+5
+4
+
+			** ITERATION: 31 **	
+Selen now in Square 18 square and has 215.
+Selen rolled 6 and 3, then will proceed  9 squares.
+Selen is in Square 27.
+Selen pay $ 22 as a rent to Yaren.
+Now, Selen is in Square 27 with $ 193.
+5
+4
+
+			** ITERATION: 31 **	
+Yaren now in RAIL ROADS4 square and has 69.
+Yaren rolled 5 and 6, then will proceed  11 squares.
+Yaren is in Square 6.
+Yaren pay $ 6 as a rent to Seda.
+Now, Yaren is in Square 6 with $ 63.
+5
+4
+
+			** ITERATION: 31 **	
+Now, Gözde is in Square 27 with $ -10.
+5
+4
+
+			** ITERATION: 32 **	
+Seda now in Square 37 square and has 115.
+Seda rolled 5 and 4, then will proceed  9 squares.
+Seda is in Square 6.
+Now, Seda is in Square 6 with $ 115.
+5
+4
+
+			** ITERATION: 32 **	
+Now, Ezgi is in WATER UTILITY with $ -50.
+5
+4
+
+			** ITERATION: 32 **	
+Dilan now in Square 23 square and has 104.
+Dilan rolled 6 and 3, then will proceed  9 squares.
+Dilan is in Square 32.
+Dilan, do you want to buy Square 32?
+Dilan hasn't got enough money to buy Square 32.
+Now, Dilan is in Square 32 with $ 104.
+5
+4
+
+			** ITERATION: 32 **	
+Selen now in Square 27 square and has 193.
+Selen rolled 1 and 3, then will proceed  4 squares.
+Selen is in Square 31.
+Selen, do you want to buy Square 31?
+Selen don't want to buy Square 31.
+Now, Selen is in Square 31 with $ 193.
+5
+4
+
+			** ITERATION: 32 **	
+Yaren now in Square 6 square and has 63.
+Yaren rolled 2 and 6, then will proceed  8 squares.
+Yaren is in Square 14.
+Yaren pay $ 12 as a rent to Ezgi.
+Now, Yaren is in Square 14 with $ 51.
+5
+4
+
+			** ITERATION: 32 **	
+Now, Gözde is in Square 27 with $ -10.
+5
+4
+
+			** ITERATION: 33 **	
+Seda now in Square 6 square and has 115.
+Seda rolled 1 and 5, then will proceed  6 squares.
+Seda is in ELECTRIC UTILITY.
+Seda pay $ 60 as rent to Ezgi 
+Now, Seda is in ELECTRIC UTILITY with $ 55.
+5
+4
+
+			** ITERATION: 33 **	
+Now, Ezgi is in WATER UTILITY with $ 22.
+5
+4
+
+			** ITERATION: 33 **	
+Dilan now in Square 32 square and has 104.
+Dilan rolled 4 and 2, then will proceed  6 squares.
+Dilan is in LUXURY TAX.
+Dilan will lose 75$.
+Now, Dilan is in LUXURY TAX with $ 29.
+5
+4
+
+			** ITERATION: 33 **	
+Selen now in Square 31 square and has 193.
+Selen rolled 3 and 6, then will proceed  9 squares.
+Selen is in GO
+GO Square! So, Selen earned 200$!
+Now, Selen is in GO with $ 393.
+5
+4
+
+			** ITERATION: 33 **	
+Yaren now in Square 14 square and has 51.
+Yaren rolled 6 and 3, then will proceed  9 squares.
+Yaren is in Square 23.
+Yaren pay $ 18 as a rent to Seda.
+Now, Yaren is in Square 23 with $ 33.
+5
+4
+
+			** ITERATION: 33 **	
+Now, Gözde is in Square 27 with $ -10.
+5
+4
+
+			** ITERATION: 34 **	
+Seda now in ELECTRIC UTILITY square and has 73.
+Seda rolled 2 and 6, then will proceed  8 squares.
+Seda is in FREE PARKING
+Now, Seda is in FREE PARKING with $ 73.
+5
+4
+
+			** ITERATION: 34 **	
+Now, Ezgi is in WATER UTILITY with $ 22.
+5
+4
+
+			** ITERATION: 34 **	
+Dilan now in LUXURY TAX square and has 29.
+Dilan rolled 3 and 1, then will proceed  4 squares.
+Dilan is in Square 2
+Now, Dilan is in Square 2 with $ 29.
+5
+4
+
+			** ITERATION: 34 **	
+Selen now in GO square and has 393.
+Selen rolled 1 and 6, then will proceed  7 squares.
+Selen is in Square 7
+Now, Selen is in Square 7 with $ 393.
+5
+4
+
+			** ITERATION: 34 **	
+Yaren now in Square 23 square and has 33.
+Yaren rolled 5 and 3, then will proceed  8 squares.
+Yaren is in Square 31.
+Yaren, do you want to buy Square 31?
+Yaren hasn't got enough money to buy Square 31.
+Now, Yaren is in Square 31 with $ 33.
+5
+4
+
+			** ITERATION: 34 **	
+Now, Gözde is in Square 27 with $ -10.
+5
+4
+
+			** ITERATION: 35 **	
+Seda now in FREE PARKING square and has 73.
+Seda rolled 5 and 5, then roll the dice again
+Seda rolled 5 and 6, then will proceed  11 squares.
+Seda is in Square 31.
+Seda, do you want to buy Square 31?
+Seda don't want to buy Square 31.
+Now, Seda is in Square 31 with $ 73.
+5
+4
+
+			** ITERATION: 35 **	
+Now, Ezgi is in WATER UTILITY with $ 22.
+5
+4
+
+			** ITERATION: 35 **	
+Dilan now in Square 2 square and has 29.
+Dilan rolled 4 and 6, then will proceed  10 squares.
+Dilan is in ELECTRIC UTILITY.
+Dilan pay $ 100 as rent to Ezgi 
+Now, Dilan is in ELECTRIC UTILITY with $ -71.
+5
+4
+
+			** ITERATION: 35 **	
+Selen now in Square 7 square and has 393.
+Selen rolled 2 and 4, then will proceed  6 squares.
+Selen is in Square 13.
+Selen pay $ 10 as a rent to Seda.
+Now, Selen is in Square 13 with $ 383.
+5
+4
+
+			** ITERATION: 35 **	
+Yaren now in Square 31 square and has 33.
+Yaren rolled 1 and 5, then will proceed  6 squares.
+Yaren is in Square 37.
+Yaren, do you want to buy Square 37?
+Yaren hasn't got enough money to buy Square 37.
+Now, Yaren is in Square 37 with $ 33.
+5
+4
+
+			** ITERATION: 35 **	
+Now, Gözde is in Square 27 with $ -10.
+5
+4
